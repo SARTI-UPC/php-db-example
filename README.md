@@ -1,1 +1,1 @@
-# Simple Example of PHP using mysqli
+# Simple Example of PHP using mysqli
